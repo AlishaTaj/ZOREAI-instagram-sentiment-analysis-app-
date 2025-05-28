@@ -1,0 +1,52 @@
+name: app1
+description: "Zore AI - A new Flutter project for AI-powered insights."
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  google_fonts: ^4.0.4
+  font_awesome_flutter: ^9.2.0
+  fl_chart: ^0.30.0
+  http: ^0.13.3
+  cached_network_image: ^3.2.3
+  flutter_spinkit: ^5.1.0
+  flutter_switch: ^0.3.2
+  salomon_bottom_bar: ^3.0.0
+  shared_preferences: ^2.5.2
+  file_picker: ^9.0.2
+  image_picker_for_web: ^3.0.0
+  image_picker: ^1.1.2
+  google_sign_in: ^6.1.5
+  flutter_secure_storage: ^9.0.0
+  url_launcher: ^6.2.5
+  shelf: ^1.4.0
+  path_provider: ^2.1.1
+  open_file: ^3.3.2
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0           # ✅ Downgraded to avoid potential linting issues
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo-zoreai.png
+    - assets/images/google_icon.png
+    - assets/images/social_illustration.png
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
