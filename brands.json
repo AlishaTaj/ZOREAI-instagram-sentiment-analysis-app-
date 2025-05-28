@@ -1,0 +1,92 @@
+{
+  "nike": {
+    "followers": 301000000,
+    "engagement_rate": 1.8,
+    "avg_likes": 900000,
+    "avg_comments": 18000,
+    "sentiment_score": 85.0,
+    "pr_risk": false,
+    "trendline": [1.7, 1.9, 2.0, 1.8, 1.8]
+  },
+  "adidas": {
+    "followers": 29000000,
+    "engagement_rate": 2.1,
+    "avg_likes": 450000,
+    "avg_comments": 10000,
+    "sentiment_score": 78.5,
+    "pr_risk": false,
+    "trendline": [2.0, 2.3, 2.1, 2.0, 2.1]
+  },
+  "puma": {
+    "followers": 13000000,
+    "engagement_rate": 1.5,
+    "avg_likes": 200000,
+    "avg_comments": 4500,
+    "sentiment_score": 66.7,
+    "pr_risk": false,
+    "trendline": [1.4, 1.6, 1.5, 1.4, 1.5]
+  },
+  "reebok": {
+    "followers": 7800000,
+    "engagement_rate": 1.2,
+    "avg_likes": 95000,
+    "avg_comments": 2100,
+    "sentiment_score": 59.3,
+    "pr_risk": false,
+    "trendline": [1.0, 1.2, 1.3, 1.1, 1.2]
+  },
+  "decathlon": {
+    "followers": 5110000,
+    "engagement_rate": 1.8,
+    "avg_likes": 70000,
+    "avg_comments": 1700,
+    "sentiment_score": 74.0,
+    "pr_risk": false,
+    "trendline": [1.7, 1.8, 2.0, 1.9, 1.8]
+  },
+  "zara": {
+    "followers": 62000000,
+    "engagement_rate": 1.4,
+    "avg_likes": 850000,
+    "avg_comments": 14000,
+    "sentiment_score": 70.2,
+    "pr_risk": false,
+    "trendline": [1.2, 1.5, 1.4, 1.3, 1.4]
+  },
+  "hm": {
+    "followers": 38000000,
+    "engagement_rate": 1.1,
+    "avg_likes": 450000,
+    "avg_comments": 9000,
+    "sentiment_score": 62.9,
+    "pr_risk": false,
+    "trendline": [1.0, 1.1, 1.0, 1.2, 1.1]
+  },
+  "uniqlo": {
+    "followers": 3100000,
+    "engagement_rate": 2.4,
+    "avg_likes": 80000,
+    "avg_comments": 2000,
+    "sentiment_score": 76.4,
+    "pr_risk": false,
+    "trendline": [2.3, 2.5, 2.4, 2.3, 2.4]
+  },
+  "newbalance": {
+    "followers": 8200000,
+    "engagement_rate": 1.9,
+    "avg_likes": 110000,
+    "avg_comments": 3000,
+    "sentiment_score": 68.0,
+    "pr_risk": false,
+    "trendline": [1.8, 1.7, 2.0, 2.1, 1.9]
+  },
+  "underarmour": {
+    "followers": 9400000,
+    "engagement_rate": 1.6,
+    "avg_likes": 130000,
+    "avg_comments": 3200,
+    "sentiment_score": 61.2,
+    "pr_risk": false,
+    "trendline": [1.4, 1.7, 1.6, 1.5, 1.6]
+  }
+}

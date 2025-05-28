@@ -1,0 +1,302 @@
+{
+  "cristiano": {
+    "name": "Cristiano Ronaldo",
+    "followers": 625000000,
+    "brand_deals": [
+      "Nike",
+      "Tag Heuer",
+      "Herbalife Nutrition",
+      "Clear Shampoo",
+      "DAZN",
+      "Altice",
+      "Garena Free Fire",
+      "CR7",
+      "Armani",
+      "Egyptian Steel",
+      "Binance",
+      "Louis Vuitton"
+    ],
+    "niche": "Football / Sports",
+    "sentiment_score": 91.2,
+    "top_countries": [
+      "Portugal",
+      "India",
+      "Brazil"
+    ],
+    "age_group": "18-34",
+    "gpt_summary": "Cristiano Ronaldo is not only a football legend but also a true inspiration to millions around the world. With a massive following of 625 million, he has captured the hearts of fans globally. His brand deals with top companies like Nike, Tag Heuer, and Herbalife Nutrition speak to his influence both on and off the field. Ronaldo's impact reaches far beyond just sports, as his positive sentiment score of 91.2% reflects. With top countries like Portugal, India, and Brazil leading the charge, it's clear that his influence knows no bounds. Ronaldo's ability to connect with the 18-34 age group further solidifies his status as a true influencer. His trendline continues to rise, making him a force to be reckoned with in the world of social media and beyond."
+  },
+  "marquesbrownlee": {
+    "name": "Marques Brownlee",
+    "followers": 4500000,
+    "niche": "Tech Reviews",
+    "sentiment_score": 88.3,
+    "top_countries": [
+      "USA",
+      "Canada",
+      "UK"
+    ],
+    "age_group": "18-34"
+  },
+  "khaby00": {
+    "name": "Khabane Lame",
+    "followers": 81000000,
+    "niche": "Comedy / Skits",
+    "sentiment_score": 89.0,
+    "top_countries": [
+      "Italy",
+      "Brazil",
+      "USA"
+    ],
+    "age_group": "18-24"
+  },
+  "emmachamberlain": {
+    "name": "Emma Chamberlain",
+    "followers": 12000000,
+    "niche": "Lifestyle / YouTube",
+    "sentiment_score": 84.7,
+    "top_countries": [
+      "USA",
+      "Canada",
+      "UK"
+    ],
+    "age_group": "18-24"
+  },
+  "bretmanrock": {
+    "name": "Bretman Rock",
+    "followers": 14000000,
+    "niche": "Beauty / Lifestyle",
+    "sentiment_score": 86.4,
+    "top_countries": [
+      "Philippines",
+      "USA",
+      "Malaysia"
+    ],
+    "age_group": "18-34"
+  },
+  "davidbeckham": {
+    "name": "David Beckham",
+    "followers": 87000000,
+    "niche": "Football / Lifestyle",
+    "sentiment_score": 90.2,
+    "top_countries": [
+      "UK",
+      "Spain",
+      "India"
+    ],
+    "age_group": "25-44"
+  },
+  "kyliejenner": {
+    "name": "Kylie Jenner",
+    "followers": 393000000,
+    "niche": "Fashion / Beauty",
+    "sentiment_score": 87.8,
+    "top_countries": [
+      "USA",
+      "UK",
+      "Mexico"
+    ],
+    "age_group": "18-34"
+  },
+  "zachking": {
+    "name": "Zach King",
+    "followers": 29000000,
+    "niche": "Magic / Video Editing",
+    "sentiment_score": 92.5,
+    "top_countries": [
+      "USA",
+      "Germany",
+      "Brazil"
+    ],
+    "age_group": "18-24"
+  },
+  "nusr_et": {
+    "name": "Salt Bae",
+    "followers": 53000000,
+    "niche": "Food / Lifestyle",
+    "sentiment_score": 83.0,
+    "top_countries": [
+      "Turkey",
+      "UAE",
+      "USA"
+    ],
+    "age_group": "25-44"
+  },
+  "salice_rose": {
+    "name": "Salice Rose",
+    "followers": 13000000,
+    "niche": "Comedy / Storytime",
+    "sentiment_score": 85.1,
+    "top_countries": [
+      "USA",
+      "Mexico",
+      "Spain"
+    ],
+    "age_group": "18-24"
+  },
+  "virat.kohli": {
+    "name": "Virat Kohli",
+    "followers": 270000000,
+    "brand_deals": [
+      "Puma",
+      "MRF Tyres",
+      "Myntra",
+      "Philips India",
+      "Noise",
+      "Boost",
+      "Volini",
+      "Audi India",
+      "One8 Commune"
+    ],
+    "niche": "Cricket / Fitness / Lifestyle",
+    "sentiment_score": 91.5,
+    "top_countries": [
+      "India",
+      "UAE",
+      "UK"
+    ],
+    "age_group": "18-34"
+  },
+  "ms.dhoni": {
+    "name": "Mahendra Singh Dhoni",
+    "followers": 75000000,
+    "brand_deals": [
+      "Seven",
+      "Dream11",
+      "Mastercard",
+      "Pepsico",
+      "Panerai",
+      "Snickers India",
+      "JioCinema",
+      "WinZO",
+      "SBI"
+    ],
+    "niche": "Cricket / Leadership / Lifestyle",
+    "sentiment_score": 93.0,
+    "top_countries": [
+      "India",
+      "UAE",
+      "Sri Lanka"
+    ],
+    "age_group": "25-44"
+  },
+  "priyankachopra": {
+    "name": "Priyanka Chopra Jonas",
+    "followers": 90000000,
+    "brand_deals": [
+      "Bvlgari",
+      "Anomaly",
+      "Crocs",
+      "Bumble",
+      "Pantene",
+      "Amazon Prime",
+      "Tiffany & Co."
+    ],
+    "niche": "Actress / Global Icon",
+    "sentiment_score": 89.5,
+    "top_countries": [
+      "India",
+      "USA",
+      "UK"
+    ],
+    "age_group": "18-44",
+    "gpt_summary": "Priyanka Chopra Jonas is not just an actress, she is a global icon who has captured the hearts of millions with her talent, grace, and captivating presence. With a massive following of 90 million fans, she has worked with top brands like Bvlgari, Anomaly, and Amazon Prime, proving her influence and appeal transcends borders. Her impact is felt across top countries like India, USA, and UK, where she is admired by fans of all ages from 18 to 44. With a remarkable sentiment score of 89.5%, it's clear that Priyanka's authenticity and positivity resonate deeply with her audience. In a world full of noise, she shines as a beacon of inspiration, reminding us to embrace our uniqueness and chase our dreams relentlessly."
+  },
+  "deepikapadukone": {
+    "name": "Deepika Padukone",
+    "followers": 65000000,
+    "brand_deals": [
+      "Louis Vuitton",
+      "Cartier",
+      "Levi's",
+      "Adidas",
+      "Dyson",
+      "Pottery Barn",
+      "Qatar Airways",
+      "Dabur Amla",
+      "L'Oreal Paris",
+      "Jaquar Lighting",
+      "Tanishq",
+      "Axis Bank",
+      "Asian Paints",
+      "Jio",
+      "Pepsi",
+      "Lux",
+      "Nescafe",
+      "Britannia",
+      "Oppo",
+      "Lloyd",
+      "Tetley Green Tea"
+    ],
+    "niche": "Actress / Fashion / Lifestyle",
+    "sentiment_score": 88.7,
+    "top_countries": [
+      "India",
+      "USA",
+      "UK"
+    ],
+    "age_group": "18-44"
+  },
+  "aliabhatt": {
+    "name": "Alia Bhatt",
+    "followers": 45000000,
+    "brand_deals": [
+      "Gucci",
+      "L'Oréal Paris",
+      "Maybelline New York",
+      "Garnier",
+      "Coca-Cola",
+      "Myntra",
+      "Uber Eats",
+      "Lay's",
+      "Philips",
+      "Frooti",
+      "Sunfeast Dark Fantasy",
+      "Flipkart",
+      "Manyavar",
+      "MakeMyTrip",
+      "Caprese",
+      "Bluestone",
+      "Standard Electricals",
+      "Nestlé Fruita Vitals",
+      "Fuji Instax",
+      "Lux",
+      "Malabar Gold & Diamonds"
+    ],
+    "niche": "Actress / Fashion / Lifestyle",
+    "sentiment_score": 87.9,
+    "top_countries": [
+      "India",
+      "USA",
+      "UK"
+    ],
+    "age_group": "18-34"
+  },
+  "ranveersingh": {
+    "name": "Ranveer Singh",
+    "followers": 40000000,
+    "brand_deals": [
+      "Pepsi",
+      "Ducati",
+      "Tiffany & Co.",
+      "Skoda",
+      "Fastrack Smart",
+      "Nutella",
+      "Meesho",
+      "boAt",
+      "BoldCare",
+      "Xiaomi",
+      "Durex",
+      "SUGAR Cosmetics",
+      "Nothing India"
+    ],
+    "niche": "Actor / Lifestyle",
+    "sentiment_score": 88.4,
+    "top_countries": [
+      "India",
+      "USA",
+      "UAE"
+    ],
+    "age_group": "18-44"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "profile": {
+    "error": {
+      "message": "Unsupported get request. Object with ID 'alisha.codes' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api",
+      "type": "GraphMethodException",
+      "code": 100,
+      "error_subcode": 33,
+      "fbtrace_id": "AoHkE-vFBKoAqB0TXx2kVfc"
+    }
+  },
+  "brand": {
+    "error": {
+      "message": "Unsupported get request. Object with ID 'alisha.codes' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api",
+      "type": "GraphMethodException",
+      "code": 100,
+      "error_subcode": 33,
+      "fbtrace_id": "AHSqX9QOlYdw2UXzkIURRRt"
+    }
+  },
+  "influencer": {
+    "posts_analyzed": 0,
+    "total_likes": 0,
+    "total_comments": 0,
+    "engagement_rate": 0
+  },
+  "hashtag": {
+    "error": "Hashtag not found."
+  }
+}
