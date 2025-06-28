@@ -1,97 +1,89 @@
-# Instagram Sentiment Analysis App – Flutter Frontend
+# Instagram Sentiment Analysis App 
 
-This is the Flutter frontend for the **Instagram Sentiment Analysis App**, a real-time AI-powered tool that analyzes the sentiment of Instagram profiles, brands, influencers, and hashtags. It uses a modern, responsive UI built in Flutter and connects to a Flask backend that performs NLP-based sentiment analysis using VADER.
+This is the **Flutter frontend** of the Instagram Sentiment Analysis App. It connects to a **Flask backend** that performs real-time sentiment analysis using VADER, the Instagram Graph API, and SQLite. 
+
+The app allows users to analyze Instagram profiles, brands, influencers, and hashtags. It includes user authentication, clean dashboards, and visual sentiment reports.
 
 ---
 
-## 🌟 Features
+## Key Technologies
 
-### ✅ Authentication
-- Email-password signup/login
-- Google Sign-In
+- **Frontend:** Flutter (Dart)
+- **Backend:** Flask (Python), SQLite
+- **APIs & Tools:** Instagram Graph API, Instaloader, VADER
+- **Charts & UI:** fl_chart, Shared Preferences, Provider
+
+---
+
+## Features
+
+### User Authentication
+- Login/signup with email and password
+- Google Sign-In (OAuth)
 - Session persistence using shared preferences
 
-### ✅ User Profile
-- Upload/change profile image
+### User Profile
+- Upload and update profile photo
 - View/edit name, email, and bio
-- Dark/Light mode support (auto-detected)
+- Light/Dark mode (auto-detected)
 - Logout functionality
 
-### ✅ Sentiment Analysis
-- **Profile Analysis** – Analyzes captions/comments of a profile
-- **Brand Analysis** – Tracks engagement, sentiment, and PR risk
-- **Influencer Analysis** – Offers sentiment breakdown, reach metrics, trendlines
-- **Hashtag Analysis** – Evaluates sentiment around a given hashtag
+### Sentiment Analysis Modules
+- **Profile Analysis**: Analyze recent captions and comments
+- **Brand Analysis**: Track brand sentiment, engagement, PR risk
+- **Influencer Analysis**: View sentiment breakdown, reach, brand deals, and trendlines
+- **Hashtag Analysis**: Analyze public hashtags for sentiment and virality
 
-### ✅ Visualization
-- Sentiment score bars with emoji indicators
-- Trendline graphs using `fl_chart`
-- Tabs for Followers, Engagement, Overview, Sentiment
+### Visualizations
+- Sentiment bars with basic visual indicators
+- Trendline charts using `fl_chart`
+- Tabs for Overview, Followers, Engagement, and Sentiment
+- PR risk indicators and brand health scores
 
 ---
 
-## 📁 Folder Structure
-
+## Folder Structure
 app1/
-├── android/                       
-│   ├── app/
-│   │   └── src/
-│   │       ├── debug/
-│   │       ├── main/
-│   │       │   └── AndroidManifest.xml    # Android app config file
-│   │       └── profile/
-│   ├── build.gradle
-│   ├── local.properties
-│   ├── settings.gradle
-│   └── ...                                # Other Gradle configs
-├── assets/
-│   ├── fonts/
-│   └── images/
-│       ├── google_icon.png
-│       ├── logo-zoreai.png
-│       └── social_illustration.png
 ├── lib/
-│   ├── components/
-│   ├── models/
-│   ├── providers/
-│   ├── screens/
-│   ├── services/
-│   │   └── instagram_service.dart
-│   ├── themes/
-│   │   ├── settings_screen.dart
-│   │   └── themes.dart
-│   ├── widgets/
-│   └── main.dart                        # App entry point
-├── linux/
-├── macos/
-├── windows/
-├── web/
-├── test/
-│   └── widget_test.dart
-├── pubspec.yaml
-├── .gitignore
-├── analysis_options.yaml
-├── README.md
+│ ├── components/ # Reusable UI elements
+│ ├── models/ # Data models
+│ ├── providers/ # State management
+│ ├── screens/ # Screens for each feature
+│ ├── services/ # Backend API calls
+│ ├── themes/ # Theme files
+│ ├── widgets/ # Custom widgets
+│ └── main.dart # App entry point
+├── assets/ # Fonts and images
+├── android/ # Android-specific config
+├── pubspec.yaml # Flutter packages
 
-## ⚙️ Getting Started
 
-### Prerequisites
+---
 
-- Flutter SDK
-- Android Studio or VS Code
-- Python 3 with Flask, VADER, Instaloader
+## How to Run the App
 
-### Steps
-
-1. Install dependencies:
-   flutter pub get
-
-### Run the app:
-flutter run
-
-### ### Prerequisites
+### Requirements
 
 - Flutter SDK installed
-- Android Studio or VS Code
-- Python 3.x for backend (Flask)
-- Instaloader & VADER installed in backend
+- Android Studio or Visual Studio Code
+- Python 3.x
+- Flask, Instaloader, VADER (for backend)
+
+
+## Planned Features
+
+- PDF export for reports
+- Clustering and tagging of hashtags
+- Real-time Graph API data updates
+- UI improvements based on user feedback
+
+---
+
+## Maintainer
+
+**Alisha Taj**  
+Computer Science Student – Bengaluru, India  
+Email: alishataj72@gmail.com  
+LinkedIn: [linkedin.com/in/alisha-taj](https://linkedin.com/in/alisha-taj)  
+Instagram (Tech): [instagram.com/alisha.codes](https://instagram.com/alisha.codes)
+
